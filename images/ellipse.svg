@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     fill="none"
+     version="1.1"     
+     viewBox="0 0 23 23">
+    <g>
+        <ellipse cx="11.5"
+                 cy="11.5"
+                 rx="11.5"
+                 ry="11.5"
+                 fill="var(--ellipse-color,#D8D8D8)"
+                 fill-opacity="1" />
+    </g>
+</svg>
